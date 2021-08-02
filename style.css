@@ -1,0 +1,34 @@
+h3{
+    color: blue;
+}
+
+#main-content{
+    border: thick solid black;
+    border-radius: 25px;
+    background-color: grey;
+    text-align: center;
+    
+}
+
+.truth-lie{
+    border: thin solid black;
+    border-radius: 25px;
+    background-color: lightgray;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    width: 33%;
+}
+
+.display-flex{
+    display: flex;
+}
+
+h1{
+    color: lightgreen;
+    text-align: center;
+}
+
+p{
+    color: red;
+}
